@@ -16,4 +16,4 @@ Kullanıcı Odaklı Stil:
 Minimalist ve Düzenli Arayüz: Kullanıcıların ürün arama ve inceleme işlemlerini kolaylaştırır. Kategori ve Menü Düzeni: E-ticaret sitelerinin ihtiyaç duyduğu sezgisel navigasyonu ön planda tutar. Temiz Renk Paleti: Amazon’un sade ve 
 
 # Ekran Goruntusu
-![bandicam2025-02-1123-26-25-216-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d05456a1-c7be-4321-8bc5-2a776dbf64c2)
+![bandicam2025-02-1123-26-25-216-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/4f66244d-0a2f-4a06-8f70-4047d07aed48)
